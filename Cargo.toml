@@ -5,6 +5,7 @@ authors = ["Dan <dchopskie@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+primes = "0.3.0"
 
 [profile.release]
 lto = true
